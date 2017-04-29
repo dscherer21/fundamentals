@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	margin: 0;
 
 }
 h1 {
@@ -16,6 +17,7 @@ a {
 letter-spacing: 1px;
 font-weight: 600;
 font-size: 18px;
+margin: 0 20px;
 
 }
 h2 {
@@ -31,4 +33,28 @@ p {
 line-height: 26px;
 font-size: 18px;
 
+}
+header {
+	background-color: #f15b31;
+padding: 30px 20px;
+
+}
+nav {
+	background-color: #00a6b3;
+	padding: 20px 0;
+}
+main {
+	width: 850px;
+	margin: 35px auto;
+
+}
+img {
+	margin: 40px 8px 0 8px;
+
+}
+footer {
+	padding: 30px 20px;
+width: 850px;
+margin: 35px auto;
+background-color: rgba(0,255,100,1);
 }
